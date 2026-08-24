@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhrub404/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/Dhrub404/Leetcode/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhrub404/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/Dhrub404/Leetcode/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |

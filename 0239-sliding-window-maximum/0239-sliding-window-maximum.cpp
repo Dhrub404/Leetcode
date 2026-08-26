@@ -57,10 +57,16 @@ public:
         for(int i=k;i<n;i++){
             maxHeap.push({nums[i], i});
             
-            //pop out of window elements
-            while((!maxHeap.empty()) && (i-maxHeap.top().second >= k)){
+            //pop out of window elements --> 1st way
+            // while((!maxHeap.empty()) && (i-maxHeap.top().second >= k)){ 
+            //     maxHeap.pop();
+            // }
+
+            //2nd way to pop --> //also formula can be written as maxHeap.top().second < i-k+1 
+            while((!maxHeap.empty()) && (maxHeap.top().second < i-k+1)){ 
                 maxHeap.pop();
             }
+
 
             // ans[i-k+1] = maxHeap.top().first;
             ans.push_back(maxHeap.top().first);

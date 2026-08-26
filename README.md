@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Dhrub404/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/Dhrub404/Leetcode/tree/master/1046-last-stone-weight) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Dhrub404/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Dhrub404/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhrub404/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Dhrub404/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Dhrub404/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Dhrub404/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
 | ------- |

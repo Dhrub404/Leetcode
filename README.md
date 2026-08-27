@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Dhrub404/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/Dhrub404/Leetcode/tree/master/0733-flood-fill) |
 | [1046-last-stone-weight](https://github.com/Dhrub404/Leetcode/tree/master/1046-last-stone-weight) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Dhrub404/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Dhrub404/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dhrub404/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Dhrub404/Leetcode/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Dhrub404/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Dhrub404/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -119,4 +121,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Dhrub404/Leetcode/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Dhrub404/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->

@@ -1,16 +1,21 @@
 class Solution {
 public:
     bool canFinish(int n, vector<vector<int>>& prerequisites) {
-        vector<int> adj[n];
+        vector<vector<int>> adjList(n);
         vector<int> indegree(n, 0);
+        queue<int> q;
         vector<int> ans;
 
-        for(auto it: prerequisites){
-            adj[it[0]].push_back(it[1]);
-            indegree[it[1]]++;
+        for(int i=0;i<prerequisites.size();i++){
+            adjList[prerequisites[i][0]].push_back(prerequisites[i][1]);
+        }
+          
+        for(int i=0;i<n;i++){
+            for(int it : adjList[i]){
+                indegree[it]++;
+            }
         }
 
-        queue<int> q;
         for(int i=0;i<n;i++){
             if(indegree[i] == 0){
                 q.push(i);
@@ -22,7 +27,7 @@ public:
             ans.push_back(top);
             q.pop();
 
-            for(int it: adj[top]){
+            for(int it: adjList[top]){
                 indegree[it]--;
                 if(indegree[it] == 0){
                     q.push(it);

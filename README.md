@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhrub404/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0130-surrounded-regions](https://github.com/Dhrub404/Leetcode/tree/master/0130-surrounded-regions) |
+| [0189-rotate-array](https://github.com/Dhrub404/Leetcode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Dhrub404/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Dhrub404/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Dhrub404/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhrub404/Leetcode/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/Dhrub404/Leetcode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Dhrub404/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Dhrub404/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->

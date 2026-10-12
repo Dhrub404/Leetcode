@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dhrub404/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhrub404/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0130-surrounded-regions](https://github.com/Dhrub404/Leetcode/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/Dhrub404/Leetcode/tree/master/0189-rotate-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Dhrub404/Leetcode/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Dhrub404/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Dhrub404/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Dhrub404/Leetcode/tree/master/0692-top-k-frequent-words) |

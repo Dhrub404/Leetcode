@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Dhrub404/Leetcode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Dhrub404/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Dhrub404/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0403-frog-jump](https://github.com/Dhrub404/Leetcode/tree/master/0403-frog-jump) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Dhrub404/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0621-task-scheduler](https://github.com/Dhrub404/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Dhrub404/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Dhrub404/Leetcode/tree/master/0189-rotate-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0403-frog-jump](https://github.com/Dhrub404/Leetcode/tree/master/0403-frog-jump) |
 <!---LeetCode Topics End-->

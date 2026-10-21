@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhrub404/Leetcode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Dhrub404/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Dhrub404/Leetcode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
@@ -208,5 +209,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Dhrub404/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/Dhrub404/Leetcode/tree/master/0070-climbing-stairs) |
 | [0403-frog-jump](https://github.com/Dhrub404/Leetcode/tree/master/0403-frog-jump) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Dhrub404/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

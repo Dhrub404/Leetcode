@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Dhrub404/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Dhrub404/Leetcode/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Dhrub404/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Dhrub404/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Dhrub404/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dhrub404/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Dhrub404/Leetcode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Dhrub404/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Dhrub404/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Dhrub404/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Dhrub404/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Dhrub404/Leetcode/tree/master/0120-triangle) |
 | [0403-frog-jump](https://github.com/Dhrub404/Leetcode/tree/master/0403-frog-jump) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Dhrub404/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Memoization
 |  |
 | ------- |

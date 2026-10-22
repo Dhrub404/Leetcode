@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dhrub404/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dhrub404/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0063-unique-paths-ii](https://github.com/Dhrub404/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0120-triangle](https://github.com/Dhrub404/Leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Dhrub404/Leetcode/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/Dhrub404/Leetcode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Dhrub404/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Dhrub404/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Dhrub404/Leetcode/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Dhrub404/Leetcode/tree/master/0120-triangle) |
 | [0403-frog-jump](https://github.com/Dhrub404/Leetcode/tree/master/0403-frog-jump) |
 ## Memoization
 |  |

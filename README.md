@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Dhrub404/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/Dhrub404/Leetcode/tree/master/0403-frog-jump) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Dhrub404/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0494-target-sum](https://github.com/Dhrub404/Leetcode/tree/master/0494-target-sum) |
 | [0621-task-scheduler](https://github.com/Dhrub404/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Dhrub404/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dhrub404/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -224,10 +225,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Dhrub404/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Dhrub404/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0403-frog-jump](https://github.com/Dhrub404/Leetcode/tree/master/0403-frog-jump) |
+| [0494-target-sum](https://github.com/Dhrub404/Leetcode/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dhrub404/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Dhrub404/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Dhrub404/Leetcode/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Dhrub404/Leetcode/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Dhrub404/Leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Dhrub404/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->

@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Dhrub404/Leetcode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Dhrub404/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Dhrub404/Leetcode/tree/master/1046-last-stone-weight) |
+| [1048-longest-string-chain](https://github.com/Dhrub404/Leetcode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Dhrub404/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Dhrub404/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Dhrub404/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Dhrub404/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Dhrub404/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Dhrub404/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1048-longest-string-chain](https://github.com/Dhrub404/Leetcode/tree/master/1048-longest-string-chain) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dhrub404/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Dhrub404/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Dhrub404/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Dhrub404/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1048-longest-string-chain](https://github.com/Dhrub404/Leetcode/tree/master/1048-longest-string-chain) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Dhrub404/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1048-longest-string-chain](https://github.com/Dhrub404/Leetcode/tree/master/1048-longest-string-chain) |
 ## Trie
 |  |
 | ------- |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Dhrub404/Leetcode/tree/master/0189-rotate-array) |
+| [1048-longest-string-chain](https://github.com/Dhrub404/Leetcode/tree/master/1048-longest-string-chain) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -240,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Dhrub404/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Dhrub404/Leetcode/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dhrub404/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1048-longest-string-chain](https://github.com/Dhrub404/Leetcode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/Dhrub404/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Dhrub404/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Memoization

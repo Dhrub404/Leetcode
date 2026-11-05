@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Dhrub404/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0692-top-k-frequent-words](https://github.com/Dhrub404/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1048-longest-string-chain](https://github.com/Dhrub404/Leetcode/tree/master/1048-longest-string-chain) |
 ## Trie

@@ -10,13 +10,12 @@ public:
 
         // Up
         if(row-1 >= 0 && grid[row-1][col] == val && vis[row-1][col] == 0){
-
-            dfs(grid, vis, val, row - 1, col, color);
+            dfs(grid, vis, val, row-1, col, color);
         }
 
         // Down
         if(row+1 < n && grid[row+1][col] == val && vis[row+1][col] == 0){
-            dfs(grid, vis, val, row + 1, col, color);
+            dfs(grid, vis, val, row+1, col, color);
         }
 
         // Left

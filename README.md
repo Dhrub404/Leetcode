@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Dhrub404/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Dhrub404/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Dhrub404/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Dhrub404/Leetcode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Dhrub404/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/Dhrub404/Leetcode/tree/master/0547-number-of-provinces) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Dhrub404/Leetcode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Dhrub404/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Dhrub404/Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Dhrub404/Leetcode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Dhrub404/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Dhrub404/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Dhrub404/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Dhrub404/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Dhrub404/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Dhrub404/Leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Dhrub404/Leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Dhrub404/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Dhrub404/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Dhrub404/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Dhrub404/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Dhrub404/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Dhrub404/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Dhrub404/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/Dhrub404/Leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Dhrub404/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Dhrub404/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Dhrub404/Leetcode/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/Dhrub404/Leetcode/tree/master/1020-number-of-enclaves) |
